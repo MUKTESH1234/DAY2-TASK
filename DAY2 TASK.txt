@@ -1,0 +1,14 @@
+WINDOW OBJECT
+
+1. Entire browser is called window.
+2. Window is the parent of document.
+3. Window can load multiple files.
+EXAMPLE:- windows.innerHeight,windows.innerWidth etc etc...
+
+
+DOCUMENT
+
+1. Document is the Skeleton of HTML FILE OR HTML FILE loaded in window.
+2. Document is the child of Window.
+3. Document is the file itself(HTML file)
+EXAMPLE:- DOC. directly points to HTML file.
